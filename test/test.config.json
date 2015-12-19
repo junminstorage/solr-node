@@ -1,0 +1,6 @@
+{
+    "zkHost": "localhost:9983",
+    "core":	"gettingstarted",
+    "solrBaseUrl": "http://localhost:8983/solr"
+ 
+}
